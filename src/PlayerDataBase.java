@@ -1,6 +1,7 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+//import com.sun.javafx.iio.ios.IosDescriptor;
+
+import java.io.*;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
@@ -53,6 +54,47 @@ public class PlayerDataBase {
                     System.out.println(player);
                 }
             }
+        }
+    }
+    public void reset(String asYear) {
+        String lsDirPath = "positions\\"+asYear;
+        players.clear();
+        proscons.clear();
+        File lcDir = new File(lsDirPath);
+        File[] lcFiles = lcDir.listFiles();
+        for (File lcFile : lcFiles)
+        {
+            String lsFileName = lcFile.getName();
+            if (!lsFileName.contains("players"))
+            {
+                this.addfile(lsDirPath+"\\"+lsFileName);
+            }
+        }
+        try {
+            File file = new File(lsDirPath+"\\"+asYear+"players");
+            if (file.exists() && file.isFile())
+            {
+                file.delete();
+            }
+            file.createNewFile();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(lsDirPath+"\\"+asYear+"players"));
+            players.sort(new Comparator<String>() {
+                public int compare(String o1, String o2) {
+                    String[] ovr1 = o1.split(" ");
+                    String[] ovr2 = o2.split(" ");
+                    return ovr2[3].compareTo(ovr1[3]);
+                }
+            });
+            for (String player : players) {
+                writer.write(player+"\n");
+                writer.write(proscons.get(player)+"\n");
+            }
+            System.out.println(players.size() + " players");
+            writer.close();
+        }
+        catch (IOException io)
+        {
+            System.out.println("NOPE");
         }
     }
 }
