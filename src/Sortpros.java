@@ -8,7 +8,7 @@ public class Sortpros {
         //System.out.println(args[0] + "\n");
         PlayerDataBase playerDataBase = new PlayerDataBase();
         //playerDataBase.addfile(args[0]);
-        playerDataBase.addfile("positions\\2020\\dl2020");
+        playerDataBase.addfile("positions\\2021\\qb2021");
         String input = "";
         while (!input.equals("quit")) {
             Scanner reader = new Scanner(System.in);
@@ -87,7 +87,7 @@ public class Sortpros {
             }
             System.out.println("");
         }
-        playerDataBase.reset("2020");
+        playerDataBase.reset("2021");
         List<String> list = Createplayers.main("hi");
         List<String> players = new ArrayList<String>();
         for (String player : playerDataBase.players){
