@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="changed some players">
-      <change afterPath="$PROJECT_DIR$/positions/2021/2021players" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2021/cb2021" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2021/qb2021" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2021/rb2021" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2021/wr2021" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2022P" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="2021 goin">
+      <change afterPath="$PROJECT_DIR$/positions/2021/edge2021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2021/lb2021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2021/ot2021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2021/te2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Createplayers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/Createplayers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Scraper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/Scraper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Sortpros$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/Sortpros$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Sortpros$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/Sortpros$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Sortpros$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Sortpros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/Sortpros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2019/wr2019" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2019/wr2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/addE" beforeDir="false" afterPath="$PROJECT_DIR$/positions/addE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sortpros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortpros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/2021players" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/2021players" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/cb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/cb2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/qb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/qb2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/rb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/rb2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/wr2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/wr2021" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587244497465</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2021 goin">
+      <created>1609296030052</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609296030052</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -322,17 +321,22 @@
     <MESSAGE value="moved around players and added some" />
     <MESSAGE value="2020 offense" />
     <MESSAGE value="changed some players" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed some players" />
+    <MESSAGE value="2021 goin" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021 goin" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609286157021">
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610411341749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1609286157021" />
-    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1609295960502">
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610411341749" />
+    <state x="704" y="28" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1609640688101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="364" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609295960502" />
+    <state x="704" y="28" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1366.728@0.0.1366.728" timestamp="1609640688101" />
+    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1609296028501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="364" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609296028501" />
     <state width="1323" height="99" key="GridCell.Tab.0.bottom" timestamp="1609295960543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -349,6 +353,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="99" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609295960543" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1609296152067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609296152067" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609204111528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
