@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="2021 goin">
-      <change afterPath="$PROJECT_DIR$/positions/2021/edge2021" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2021/lb2021" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2021/ot2021" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2021/te2021" afterDir="false" />
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment=" strong">
+      <change afterPath="$PROJECT_DIR$/positions/2021/2021scout" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Sortpros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/Sortpros.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/2021players" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/2021players" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/cb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/cb2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/edge2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/edge2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/lb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/lb2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/ot2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/ot2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/qb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/qb2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/rb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/rb2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/wr2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/wr2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/RatingsKey" beforeDir="false" afterPath="$PROJECT_DIR$/positions/RatingsKey" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sortpros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortpros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1VUIl6hsOK3qASNm7ovX0lVabjV" />
   <component name="ProjectViewState">
@@ -305,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609296030052</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" strong">
+      <created>1610505014457</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610505014457</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -322,45 +333,50 @@
     <MESSAGE value="2020 offense" />
     <MESSAGE value="changed some players" />
     <MESSAGE value="2021 goin" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021 goin" />
+    <MESSAGE value=" strong" />
+    <option name="LAST_COMMIT_MESSAGE" value=" strong" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610411341749">
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610574385822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610411341749" />
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610574385822" />
     <state x="704" y="28" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1609640688101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="704" y="28" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1366.728@0.0.1366.728" timestamp="1609640688101" />
-    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1609296028501">
+    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1610505013191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="364" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609296028501" />
-    <state width="1323" height="99" key="GridCell.Tab.0.bottom" timestamp="1609295960543">
+    <state x="364" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610505013191" />
+    <state width="1323" height="99" key="GridCell.Tab.0.bottom" timestamp="1610574480110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="99" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609295960543" />
-    <state width="1323" height="99" key="GridCell.Tab.0.center" timestamp="1609295960543">
+    <state width="1323" height="99" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610574480110" />
+    <state width="1323" height="99" key="GridCell.Tab.0.center" timestamp="1610574480110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="99" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609295960543" />
-    <state width="1323" height="99" key="GridCell.Tab.0.left" timestamp="1609295960542">
+    <state width="1323" height="99" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610574480110" />
+    <state width="1323" height="99" key="GridCell.Tab.0.left" timestamp="1610574480108">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="99" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609295960542" />
-    <state width="1323" height="99" key="GridCell.Tab.0.right" timestamp="1609295960543">
+    <state width="1323" height="99" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610574480108" />
+    <state width="1323" height="99" key="GridCell.Tab.0.right" timestamp="1610574480110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="99" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609295960543" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1609296152067">
+    <state width="1323" height="99" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610574480110" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1610505026706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609296152067" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610505026706" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609204111528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609204111528" />
+    <state x="833" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610570905123">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="833" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610570905123" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
