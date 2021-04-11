@@ -8,7 +8,7 @@ public class Sortpros {
         //System.out.println(args[0] + "\n");
         PlayerDataBase playerDataBase = new PlayerDataBase();
         //playerDataBase.addfile(args[0]);
-        playerDataBase.addfile("positions\\2021\\2021players");
+        playerDataBase.addfile("positions\\2021\\edge2021");
         String input = "";
         while (!input.equals("quit")) {
             Scanner reader = new Scanner(System.in);
