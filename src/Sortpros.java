@@ -8,7 +8,7 @@ public class Sortpros {
         //System.out.println(args[0] + "\n");
         PlayerDataBase playerDataBase = new PlayerDataBase();
         //playerDataBase.addfile(args[0]);
-        playerDataBase.addfile("positions\\2021\\edge2021");
+        playerDataBase.addfile("positions\\2021\\2021players");
         String input = "";
         while (!input.equals("quit")) {
             Scanner reader = new Scanner(System.in);
@@ -53,6 +53,7 @@ public class Sortpros {
 //                            }
 //                        });
 //                    }
+                    int rank = 1;
                     for (String s : playerDataBase.players) {
                         if (sortby.length == 3 && sortby[2].equals(s.split(" ")[0])) {
                             System.out.println(s);
@@ -62,13 +63,15 @@ public class Sortpros {
                             String[] s2 = s.split(" ");
                             String[] coll = (String[]) Arrays.copyOfRange(s2, 4, s2.length);
                             //System.out.print(s2[0]+" "+s2[1]+" "+s2[2]);
-                            for (String c : coll) {
-                                //System.out.print(" ");
-                                //System.out.print(c);
-                            }
+//                            for (String c : coll) {
+//                                //System.out.print(" ");
+//                                //System.out.print(c);
+//                            }
                             //System.out.println();
+//                            System.out.println(rank + ". " + s2[0] + " " + s2[1] + " " + s2[2] + " " + String.join(" ", coll));
+//                            rank = rank + 1;
                             System.out.println(s);
-                            System.out.println(playerDataBase.proscons.get(s));
+//                            System.out.println(playerDataBase.proscons.get(s));
                         }
                     }
                 } else {
