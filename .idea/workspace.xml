@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="OL done DL done">
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="inital pass 2021">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/Sortpros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/Sortpros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2021/2021players" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/2021players" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/2021scout" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/2021scout" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/c2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/c2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/cb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/cb2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/dl2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/dl2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/edge2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/edge2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/lb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/lb2021" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2021/og2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/og2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/ot2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/ot2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/qb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/qb2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/rb2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/rb2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/s2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/s2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/te2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/te2021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2021/wr2021" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2021/wr2021" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sortpros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortpros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618177195137</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="inital pass 2021">
+      <created>1618441118914</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1618441118914</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView">
@@ -428,17 +434,22 @@
     <MESSAGE value="Fixed up ratings" />
     <MESSAGE value="More OL" />
     <MESSAGE value="OL done DL done" />
-    <option name="LAST_COMMIT_MESSAGE" value="OL done DL done" />
+    <MESSAGE value="inital pass 2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="inital pass 2021" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613685847296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1613685847296" />
-    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1618177193685">
+    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1618441117415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="364" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1618177193685" />
+    <state x="364" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1618441117415" />
+    <state x="776" y="100" width="497" height="535" key="DiffContextDialog" timestamp="1618615059536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="776" y="100" width="497" height="535" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1618615059536" />
     <state width="1323" height="198" key="GridCell.Tab.0.bottom" timestamp="1618291093368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -459,14 +470,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="76" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1617288621718" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1618177197861">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1618441121574">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1618177197861" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1618416982543">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1618441121574" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1619484796654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1618416982543" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1619484796654" />
     <state x="833" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611615108571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
