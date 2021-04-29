@@ -71,7 +71,7 @@ public class Sortpros {
 //                            System.out.println(rank + ". " + s2[0] + " " + s2[1] + " " + s2[2] + " " + String.join(" ", coll));
 //                            rank = rank + 1;
                             System.out.println(s);
-//                            System.out.println(playerDataBase.proscons.get(s));
+                            System.out.println(playerDataBase.proscons.get(s));
                         }
                     }
                 } else {
