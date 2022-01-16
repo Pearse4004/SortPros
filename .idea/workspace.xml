@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="2022 time lets go">
-      <change afterPath="$PROJECT_DIR$/positions/2022/cb2022" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2022/dl2022" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2022/edge2022" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2022/ot2022" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2022/s2022" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2022/wr2022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2022/og2022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2022/rb2022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2022/te2022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/AllPlayers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/qb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/qb2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/dl2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/dl2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/edge2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/edge2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/ot2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/ot2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/wr2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/wr2022" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -424,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620362095937</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2022 time lets go">
+      <created>1642089536744</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1642089536744</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -456,58 +466,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="2022 time lets go" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621561824140">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="784" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642098149918">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1621561824140" />
-    <state x="364" y="0" key="CommitChangelistDialog2" timestamp="1620362094781">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="784" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1642098149918" />
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1642089536130">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="364" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620362094781" />
-    <state x="776" y="100" width="497" height="535" key="DiffContextDialog" timestamp="1618615059536">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1642089536130" />
+    <state x="258" y="60" key="DiffContextDialog" timestamp="1642089544614">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="776" y="100" width="497" height="535" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1618615059536" />
-    <state x="804" y="120" key="FileChooserDialogImpl" timestamp="1619492799952">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="258" y="60" key="DiffContextDialog/0.0.1366.720@0.0.1366.720" timestamp="1642089544614" />
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2" timestamp="1642089666105">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="804" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619492799952" />
-    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1619844423588">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1642089666105" />
+    <state x="721" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1642169482739">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619844423588" />
-    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1619844423588">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="721" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1642169482739" />
+    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642357113291">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619844423588" />
-    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1619844423588">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619844423588" />
-    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1619844423588">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619844423588" />
-    <state x="479" y="76" key="RollbackChangesDialog" timestamp="1617288621718">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="479" y="76" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1617288621718" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1620362098377">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620362098377" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1621992987003">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1621992987003" />
-    <state x="748" y="168" key="git4idea.merge.GitPullDialog" timestamp="1618023586259">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="748" y="168" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1618023586259" />
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619895365082">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1619895365082" />
+    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1642357113291" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
