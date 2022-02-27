@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Added more RBs and David Bell, switched 1v1">
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Added some WR and QBs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/dl2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/dl2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/edge2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/edge2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/ot2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/ot2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/qb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/qb2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/wr2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/wr2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/rb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/rb2022" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,10 +203,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Createplayers" />
+      <item itemvalue="Application.DraftProspectHub" />
       <item itemvalue="Application.IDK" />
       <item itemvalue="Application.PlayerDataBase" />
       <item itemvalue="Application.Scraper" />
-      <item itemvalue="Application.DraftProspectHub" />
     </list>
     <recent_temporary>
       <list>
@@ -504,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644160266576</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Added some WR and QBs">
+      <created>1645281644374</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1645281644374</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -536,7 +546,8 @@
     <MESSAGE value="Senior Bowl DL" />
     <MESSAGE value="Edit players and changed code" />
     <MESSAGE value="Added more RBs and David Bell, switched 1v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more RBs and David Bell, switched 1v1" />
+    <MESSAGE value="Added some WR and QBs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some WR and QBs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="784" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642615478344">
@@ -547,10 +558,10 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="453" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1366.720@0.0.1366.720" timestamp="1643663597128" />
-    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1644160265531">
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1645281643687">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1644160265531" />
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1645281643687" />
     <state x="258" y="60" key="DiffContextDialog" timestamp="1642089544614">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
@@ -575,18 +586,18 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="737" y="77" key="MultipleFileMergeDialog/0.0.1366.720@0.0.1366.720" timestamp="1642791382371" />
-    <state x="550" y="94" key="Vcs.Push.Dialog.v2" timestamp="1644160268965">
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645281738848">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="550" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1644160268965" />
-    <state x="721" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1645032268924">
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1645281738848" />
+    <state x="721" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1645995124928">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="721" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1645032268924" />
-    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642791375845">
+    <state x="721" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1645995124928" />
+    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645995717428">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1642791375845" />
+    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1645995717428" />
     <state x="65" y="0" key="new project wizard" timestamp="1643658656258">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
