@@ -50,6 +50,11 @@ public class Player {
         return rating;
     }
 
+    public String getName()
+    {
+        return name;
+    }
+
     @Override
     public String toString()
     {

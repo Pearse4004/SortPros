@@ -51,20 +51,29 @@ public class PlayerDataBase
         }
     }
 
+    public void print_rankings(String year)
+    {
+        read_in_all_players(year);
+        players_list.sort(new Comparator<Player>()
+        {
+            @Override
+            public int compare(Player player1, Player player2)
+            {
+                return player1.compareRatingTo(player2);
+            }
+        });
+        int ranking = 1;
+        for ( Player current_player : players_list )
+        {
+            System.out.println(ranking + ": " + current_player.getName());
+            ranking++;
+        }
+    }
+
     public void make_file(String year)
     {
+        read_in_all_players(year);
         String directory_path_string = "positions\\" + year;
-        players_list.clear();
-        File directory_path = new File( directory_path_string );
-        File[] directory_files = directory_path.listFiles();
-        for (File current_file : directory_files)
-        {
-            String file_name = current_file.getName();
-            if ( !file_name.contains( "players" ) )
-            {
-                this.add_file( directory_path_string + "\\" + file_name );
-            }
-        }
         try
         {
             String all_player_file_name = directory_path_string + "\\" + "players" + year;
@@ -93,6 +102,22 @@ public class PlayerDataBase
         catch (IOException io)
         {
             System.out.println("Couldn't deal with the compiled player list");
+        }
+    }
+
+    public void read_in_all_players(String year)
+    {
+        String directory_path_string = "positions\\" + year;
+        players_list.clear();
+        File directory_path = new File( directory_path_string );
+        File[] directory_files = directory_path.listFiles();
+        for (File current_file : directory_files)
+        {
+            String file_name = current_file.getName();
+            if ( !file_name.contains( "players" ) )
+            {
+                this.add_file( directory_path_string + "\\" + file_name );
+            }
         }
     }
 }

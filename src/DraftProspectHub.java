@@ -13,7 +13,7 @@ public class DraftProspectHub
 
         // Uncomment if using the command line to start
         // String position = args[1];
-        String position = "rb";
+        String position = "wr";
 
         PlayerDataBase player_data_base = new PlayerDataBase();
         player_data_base.add_file( "positions\\" + year + "\\" + position + year);
@@ -25,6 +25,7 @@ public class DraftProspectHub
                     "\"print rating\" to print the list of player in order\n" +
                     "\"draft\" to start the draft\n" +
                     "\"compile\" to compile all files into one for the year\n" +
+                    "\"ranking\" to print out the ranking of all the players\n" +
                     "\"quit\" to end: ");
             String input = reader.nextLine();
 
@@ -61,6 +62,10 @@ public class DraftProspectHub
                 else if (split_input[0].equals("compile"))
                 {
                     player_data_base.make_file(year);
+                }
+                else if (split_input[0].equals("ranking"))
+                {
+                    player_data_base.print_rankings(year);
                 }
                 else
                 {

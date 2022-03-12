@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Added some WR and QBs">
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Edit to ratings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/c2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/c2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/cb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/cb2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/dl2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/dl2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/edge2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/edge2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/lb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/lb2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/og2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/og2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/ot2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/ot2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/qb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/qb2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/rb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/rb2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/s2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/s2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/wr2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/wr2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DraftProspectHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DraftProspectHub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayerDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerDataBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -527,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645995727186</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Edit to ratings">
+      <created>1646611915078</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1646611915078</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView">
@@ -560,7 +569,8 @@
     <MESSAGE value="Edit players and changed code" />
     <MESSAGE value="Added more RBs and David Bell, switched 1v1" />
     <MESSAGE value="Added some WR and QBs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some WR and QBs" />
+    <MESSAGE value="Edit to ratings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit to ratings" />
   </component>
   <component name="WindowStateProjectService">
     <state x="784" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642615478344">
@@ -571,46 +581,46 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="453" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1366.720@0.0.1366.720" timestamp="1643663597128" />
-    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1645995726595">
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1646611914030">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1645995726595" />
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1646611914030" />
     <state x="258" y="60" key="DiffContextDialog" timestamp="1642089544614">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="258" y="60" key="DiffContextDialog/0.0.1366.720@0.0.1366.720" timestamp="1642089544614" />
-    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1646610893322">
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1646690649780">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1646610893322" />
-    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1646610893321">
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1646690649780" />
+    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1646690649780">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1646610893321" />
-    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1646610893321">
+    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1646690649780" />
+    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1646690649779">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1646610893321" />
-    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1646610893322">
+    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1646690649779" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1646690649780">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1646610893322" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1646690649780" />
     <state x="737" y="77" key="MultipleFileMergeDialog" timestamp="1642791382371">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="737" y="77" key="MultipleFileMergeDialog/0.0.1366.720@0.0.1366.720" timestamp="1642791382371" />
-    <state x="550" y="94" key="Vcs.Push.Dialog.v2" timestamp="1645995729879">
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2" timestamp="1646611917924">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="550" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1645995729879" />
-    <state x="721" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1646327542770">
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1646611917924" />
+    <state x="721" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1647026514758">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="721" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1646327542770" />
-    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646053866046">
+    <state x="721" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1647026514758" />
+    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647119598464">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1646053866046" />
+    <state x="833" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1647119598464" />
     <state x="65" y="0" key="new project wizard" timestamp="1643658656258">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
