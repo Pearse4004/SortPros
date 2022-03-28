@@ -13,7 +13,7 @@ public class DraftProspectHub
 
         // Uncomment if using the command line to start
         // String position = args[1];
-        String position = "wr";
+        String position = "edge";
 
         PlayerDataBase player_data_base = new PlayerDataBase();
         player_data_base.add_file( "positions\\" + year + "\\" + position + year);
