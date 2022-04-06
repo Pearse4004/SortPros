@@ -55,6 +55,10 @@ public class Player {
         return name;
     }
 
+    public String getPosition() {
+        return this.position;
+    }
+
     @Override
     public String toString()
     {
@@ -71,4 +75,5 @@ public class Player {
     {
         return player2.getRating() - this.rating;
     }
+
 }

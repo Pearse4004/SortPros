@@ -65,7 +65,9 @@ public class PlayerDataBase
         int ranking = 1;
         for ( Player current_player : players_list )
         {
-            System.out.println(ranking + ": " + current_player.getName());
+            System.out.println(ranking + ": " + current_player.getPosition() + " " +
+                    current_player.getName() + " " + current_player.getCollege() + " " +
+                    current_player.getRating());
             ranking++;
         }
     }
