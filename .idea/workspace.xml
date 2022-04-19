@@ -3,21 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Mock draft comin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/c2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/c2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/cb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/cb2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/dl2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/dl2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/edge2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/edge2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/lb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/lb2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/og2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/og2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/ot2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/ot2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/qb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/qb2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/rb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/rb2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/s2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/s2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/te2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/te2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2022/wr2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/wr2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022P" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022P" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/MockDrafts/2022_1.0" beforeDir="false" afterPath="$PROJECT_DIR$/positions/MockDrafts/2022_1.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/MockDrafts/Players2022_1.0" beforeDir="false" afterPath="$PROJECT_DIR$/positions/MockDrafts/Players2022_1.0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DraftProspectHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DraftProspectHub.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -588,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649274386119</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Mock draft comin">
+      <created>1650308642194</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1650308642195</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView">
@@ -635,38 +629,42 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="453" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1366.720@0.0.1366.720" timestamp="1643663597128" />
-    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1649274385499">
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1650308640682">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1649274385499" />
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1650308640682" />
     <state x="258" y="60" key="DiffContextDialog" timestamp="1642089544614">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="258" y="60" key="DiffContextDialog/0.0.1366.720@0.0.1366.720" timestamp="1642089544614" />
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1650308252192">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1650384164074">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.720/125.-1080.1920.1032@0.0.1366.720" timestamp="1650384164074" />
     <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1650308252192" />
-    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1650308252192">
+    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1650384164073">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.720/125.-1080.1920.1032@0.0.1366.720" timestamp="1650384164073" />
     <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1650308252192" />
-    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1650308252192">
+    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1650384164073">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.720/125.-1080.1920.1032@0.0.1366.720" timestamp="1650384164073" />
     <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1650308252192" />
-    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1650308252192">
+    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1650384164073">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
+    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.720/125.-1080.1920.1032@0.0.1366.720" timestamp="1650384164073" />
     <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1650308252192" />
     <state x="737" y="77" key="MultipleFileMergeDialog" timestamp="1642791382371">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="737" y="77" key="MultipleFileMergeDialog/0.0.1366.720@0.0.1366.720" timestamp="1642791382371" />
-    <state x="550" y="94" key="Vcs.Push.Dialog.v2" timestamp="1649274388188">
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2" timestamp="1650309298417">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="550" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1649274388188" />
+    <state x="550" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1650309298417" />
     <state x="721" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1650035301867">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
