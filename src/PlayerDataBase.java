@@ -10,6 +10,8 @@ public class PlayerDataBase
 {
     public List< Player > players_list;
 
+    public static String[] positions_list = {"c","cb","dl","edge","lb","og","ot","qb","rb","s","te","wr"};
+
     public PlayerDataBase()
     {
         players_list = new LinkedList<>();
@@ -120,6 +122,81 @@ public class PlayerDataBase
             {
                 this.add_file( directory_path_string + "\\" + file_name );
             }
+        }
+    }
+
+    public void create_lists(String year)
+    {
+        players_list.clear();
+        String directory_path_string = "positions\\" + "MockDrafts\\";
+        for (String position : positions_list)
+        {
+            add_file( "positions\\" + year + "\\" + position + year);
+            try
+            {
+                String player_file_name = directory_path_string + position + year;
+                File player_file = new File( player_file_name );
+                if ( player_file.exists() && player_file.isFile() )
+                {
+                    player_file.delete();
+                }
+                player_file.createNewFile();
+                BufferedWriter writer = new BufferedWriter(new FileWriter( player_file_name ));
+                players_list.sort(new Comparator<Player>()
+                {
+                    @Override
+                    public int compare(Player player1, Player player2)
+                    {
+                        return player1.compareRatingTo(player2);
+                    }
+                });
+                int rank = 1;
+                for ( Player current_player : players_list )
+                {
+                    writer.write( rank + ". " + current_player.getPosition() + " " +
+                            current_player.getName() + " " + current_player.getCollege() + "\n" );
+                    rank += 1;
+                }
+                writer.close();
+            }
+            catch (IOException io)
+            {
+                System.out.println("Couldn't deal with the compiled player list");
+            }
+            players_list.clear();
+        }
+        // Read in all players and make that file
+        read_in_all_players(year);
+        try
+        {
+            String player_file_name = directory_path_string + "players" + year;
+            File player_file = new File( player_file_name );
+            if ( player_file.exists() && player_file.isFile() )
+            {
+                player_file.delete();
+            }
+            player_file.createNewFile();
+            BufferedWriter writer = new BufferedWriter(new FileWriter( player_file_name ));
+            players_list.sort(new Comparator<Player>()
+            {
+                @Override
+                public int compare(Player player1, Player player2)
+                {
+                    return player1.compareRatingTo(player2);
+                }
+            });
+            int rank = 1;
+            for ( Player current_player : players_list )
+            {
+                writer.write( rank + ". " + current_player.getPosition() + " " +
+                        current_player.getName() + " " + current_player.getCollege() + "\n" );
+                rank += 1;
+            }
+            writer.close();
+        }
+        catch (IOException io)
+        {
+            System.out.println("Couldn't deal with the compiled player list");
         }
     }
 }
