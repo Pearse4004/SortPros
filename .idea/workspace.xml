@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="ONLY DB to go">
-      <change afterPath="$PROJECT_DIR$/positions/2023/cb2023" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2023/edge2023" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2023/lb2023" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/2023/qb2023" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/MockDrafts/2022_2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2023/c2023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2023/dl2023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2023/og2023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2023/ot2023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2023/rb2023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2023/te2023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2023/wr2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/cb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/cb2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/dl2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/dl2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/edge2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/edge2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/lb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/lb2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/ot2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/ot2022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2022/s2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/s2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2017draft" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2017draft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/qb2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/qb2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2022/wr2022" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2022/wr2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/players2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/players2023" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/MockDrafts/Players2022_1.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/qb2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/qb2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DraftProspectHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DraftProspectHub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayerDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerDataBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,13 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499281022370</updated>
-    </task>
-    <task id="LOCAL-00004" summary="changed some players">
-      <created>1586218869828</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1586218869828</updated>
     </task>
     <task id="LOCAL-00005" summary="changed some players">
       <created>1586300924378</created>
@@ -595,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650978677804</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="ONLY DB to go">
+      <created>1671378362735</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1671378362737</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView">
@@ -636,13 +633,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="ONLY DB to go" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1671378338799">
+    <state x="-675" y="64" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1675138829633">
+      <screen x="-1600" y="-134" width="1600" height="852" />
+    </state>
+    <state x="-675" y="64" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675138829633" />
+    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675131472695" />
+    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/1366.-327.1600.852@0.0.1366.720" timestamp="1671671478017" />
+    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1673655992795" />
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1671378361399">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1671378338799" />
-    <state x="379" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1669908417486">
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1671378361399" />
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1674753058175">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058175" />
+    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1674753058174">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
+    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1674753058174">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1674753058174">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1671378364952">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1671378364952" />
+    <state x="379" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1675004779144">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675004779144" />
+    <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/1366.-327.1600.852@0.0.1366.720" timestamp="1671584364905" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/310.-900.1600.852@0.0.1366.720" timestamp="1669908417486" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1669076322021" />
   </component>
