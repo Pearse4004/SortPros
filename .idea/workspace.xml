@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="2023 initial offense done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/c2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/c2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/dl2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/dl2023" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/edge2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/edge2023" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/ot2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/ot2023" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/players2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/players2023" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/qb2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/qb2023" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/wr2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/wr2023" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,13 +242,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499281022370</updated>
-    </task>
-    <task id="LOCAL-00006" summary="changed some players">
-      <created>1586731037966</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1586731037966</updated>
     </task>
     <task id="LOCAL-00007" summary="changed some players">
       <created>1586731078280</created>
@@ -580,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675138863233</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="2023 initial offense done">
+      <created>1675176526775</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1675176526776</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView">
@@ -628,10 +634,10 @@
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675131472695" />
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/1366.-327.1600.852@0.0.1366.720" timestamp="1671671478017" />
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1673655992795" />
-    <state x="-773" y="-134" key="CommitChangelistDialog2" timestamp="1675138862546">
+    <state x="-773" y="-134" key="CommitChangelistDialog2" timestamp="1675176526132">
       <screen x="-1600" y="-134" width="1600" height="852" />
     </state>
-    <state x="-773" y="-134" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675138862546" />
+    <state x="-773" y="-134" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176526132" />
     <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1671378361399" />
     <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1674753058175">
       <screen x="0" y="0" width="1366" height="720" />
@@ -649,14 +655,15 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
-    <state x="-956" y="-19" key="Vcs.Push.Dialog.v2" timestamp="1675138865412">
+    <state x="-956" y="-19" key="Vcs.Push.Dialog.v2" timestamp="1675176528030">
       <screen x="-1600" y="-134" width="1600" height="852" />
     </state>
-    <state x="-956" y="-19" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675138865412" />
+    <state x="-956" y="-19" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176528030" />
     <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1671378364952" />
-    <state x="379" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1675004779144">
-      <screen x="0" y="0" width="1366" height="720" />
+    <state x="-1156" y="85" key="com.intellij.ide.util.TipDialog" timestamp="1675298288734">
+      <screen x="-1600" y="-134" width="1600" height="852" />
     </state>
+    <state x="-1156" y="85" key="com.intellij.ide.util.TipDialog/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675298288734" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675004779144" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/1366.-327.1600.852@0.0.1366.720" timestamp="1671584364905" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/310.-900.1600.852@0.0.1366.720" timestamp="1669908417486" />
