@@ -237,13 +237,6 @@
       <option name="presentableId" value="Default" />
       <updated>1499281022370</updated>
     </task>
-    <task id="LOCAL-00008" summary="changed some players">
-      <created>1587244497465</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1587244497465</updated>
-    </task>
     <task id="LOCAL-00009" summary="2021 goin">
       <created>1609296030052</created>
       <option name="number" value="00009" />
@@ -580,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675351906721</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Getting through the edges">
+      <created>1675365318944</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1675365318944</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TodoView">
@@ -628,11 +628,11 @@
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675131472695" />
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/1366.-327.1600.852@0.0.1366.720" timestamp="1671671478017" />
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1673655992795" />
-    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1675351905746">
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1675365318283">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-773" y="-134" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176526132" />
-    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675351905746" />
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675365318283" />
     <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1671378361399" />
     <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1674753058175">
       <screen x="0" y="0" width="1366" height="720" />
@@ -650,11 +650,11 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
-    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1675351909070">
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1675365322471">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-956" y="-19" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176528030" />
-    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675351909070" />
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675365322471" />
     <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1671378364952" />
     <state x="-1156" y="85" key="com.intellij.ide.util.TipDialog" timestamp="1675298288734">
       <screen x="-1600" y="-134" width="1600" height="852" />
