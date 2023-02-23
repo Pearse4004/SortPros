@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="WRS getting there">
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="WR Combine done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2023/te2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/te2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/wr2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/wr2023" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -236,13 +237,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499281022370</updated>
-    </task>
-    <task id="LOCAL-00014" summary="more">
-      <created>1613586176053</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1613586176053</updated>
     </task>
     <task id="LOCAL-00015" summary="Added alot">
       <created>1613689364535</created>
@@ -580,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676992918006</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="WR Combine done">
+      <created>1677033079773</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1677033079773</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TodoView">
@@ -593,7 +594,6 @@
     </todo-panel>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added alot" />
     <MESSAGE value="more changes" />
     <MESSAGE value="pff wr done 2021" />
     <MESSAGE value="Draft guide offense 1 done" />
@@ -618,7 +618,8 @@
     <MESSAGE value="Got QB Combine done" />
     <MESSAGE value="QB and RBs done 2023" />
     <MESSAGE value="WRS getting there" />
-    <option name="LAST_COMMIT_MESSAGE" value="WRS getting there" />
+    <MESSAGE value="WR Combine done" />
+    <option name="LAST_COMMIT_MESSAGE" value="WR Combine done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676337841213">
@@ -629,12 +630,12 @@
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1676337841213" />
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/1366.-327.1600.852@0.0.1366.720" timestamp="1671671478017" />
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1673655992795" />
-    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1676992916889">
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1677033079020">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-773" y="-134" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176526132" />
     <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675365318283" />
-    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1676992916889" />
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1677033079020" />
     <state x="2358" y="-312" key="CommitChangelistDialog2/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676344191478" />
     <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1671378361399" />
     <state width="1323" height="85" key="GridCell.Tab.0.bottom" timestamp="1677032944175">
@@ -661,12 +662,12 @@
     <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
     <state width="1323" height="85" key="GridCell.Tab.0.right/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1677032944175" />
     <state width="1877" height="72" key="GridCell.Tab.0.right/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676385304441" />
-    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1676992919746">
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1677033081431">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-956" y="-19" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176528030" />
     <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675365322471" />
-    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1676992919746" />
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1677033081431" />
     <state x="2139" y="-173" key="Vcs.Push.Dialog.v2/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676344197493" />
     <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1671378364952" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1676899386004">
