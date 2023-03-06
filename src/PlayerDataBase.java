@@ -109,6 +109,75 @@ public class PlayerDataBase
         }
     }
 
+    public void sort_files(String year)
+    {
+        read_in_all_players(year);
+        String directory_path_string = "positions\\" + year + "_2\\";
+        for ( String position : positions_list )
+        {
+            add_file( "positions\\" + year + "\\" + position + year);
+            try
+            {
+                String player_file_name = directory_path_string + position + year;
+                File player_file = new File( player_file_name );
+                if ( player_file.exists() && player_file.isFile() )
+                {
+                    player_file.delete();
+                }
+                player_file.createNewFile();
+                BufferedWriter writer = new BufferedWriter(new FileWriter( player_file_name ));
+                players_list.sort(new Comparator<Player>()
+                {
+                    @Override
+                    public int compare(Player player1, Player player2)
+                    {
+                        return player1.compareRatingTo(player2);
+                    }
+                });
+                for ( Player current_player : players_list )
+                {
+                    writer.write( current_player.toString() );
+                }
+                writer.close();
+            }
+            catch (IOException io)
+            {
+                System.out.println("Couldn't deal with the compiled player list");
+            }
+            players_list.clear();
+        }
+
+        try
+        {
+            String all_player_file_name = directory_path_string + "\\" + "players" + year;
+            File all_player_file = new File( all_player_file_name );
+            if ( all_player_file.exists() && all_player_file.isFile() )
+            {
+                all_player_file.delete();
+            }
+            all_player_file.createNewFile();
+            BufferedWriter writer = new BufferedWriter(new FileWriter( all_player_file_name ));
+            players_list.sort(new Comparator<Player>()
+            {
+                @Override
+                public int compare(Player player1, Player player2)
+                {
+                    return player1.compareRatingTo(player2);
+                }
+            });
+            for ( Player current_player : players_list )
+            {
+                writer.write( current_player.toString() + "\n" );
+            }
+            System.out.println(players_list.size() + " players in the file");
+            writer.close();
+        }
+        catch (IOException io)
+        {
+            System.out.println("Couldn't deal with the compiled player list");
+        }
+    }
+
     public void read_in_all_players(String year)
     {
         String directory_path_string = "positions\\" + year;
@@ -129,8 +198,10 @@ public class PlayerDataBase
     {
         players_list.clear();
         String directory_path_string = "positions\\" + "MockDrafts\\";
+        System.out.println("HI");
         for (String position : positions_list)
         {
+            System.out.println(position);
             add_file( "positions\\" + year + "\\" + position + year);
             try
             {

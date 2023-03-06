@@ -13,7 +13,7 @@ public class DraftProspectHub
 
         // Uncomment if using the command line to start
         // String position = args[1];
-        String position = "og";
+        String position = "te";
 
         PlayerDataBase player_data_base = new PlayerDataBase();
         player_data_base.add_file( "positions\\" + year + "\\" + position + year);
@@ -62,6 +62,10 @@ public class DraftProspectHub
                 else if (split_input[0].equals("compile"))
                 {
                     player_data_base.make_file(year);
+                }
+                else if (split_input[0].equals("sort"))
+                {
+                    player_data_base.sort_files(year);
                 }
                 else if (split_input[0].equals("ranking"))
                 {
