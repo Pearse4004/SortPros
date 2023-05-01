@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="QBs done">
-      <change afterPath="$PROJECT_DIR$/positions/Future/FutureQB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positions/MockDrafts/2023_2.0" afterDir="false" />
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="A lot of players">
+      <change afterPath="$PROJECT_DIR$/positions/Future/FutureEDGE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/Future/FutureOL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/Future/FutureRB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/Future/FutureWR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/MockDrafts/2023_3.0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/c2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/c2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/cb2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/cb2023" afterDir="false" />
@@ -16,9 +19,9 @@
       <change beforePath="$PROJECT_DIR$/positions/2023/qb2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/qb2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/rb2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/rb2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/s2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/s2023" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2023/te2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/te2023" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2023/wr2023" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2023/wr2023" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/MockDrafts/2023_1.0" beforeDir="false" afterPath="$PROJECT_DIR$/positions/MockDrafts/2023_1.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/Future/FutureQB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureQB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/RatingsKey" beforeDir="false" afterPath="$PROJECT_DIR$/positions/RatingsKey" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,13 +254,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499281022370</updated>
-    </task>
-    <task id="LOCAL-00021" summary="More OL">
-      <created>1617562746111</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1617562746111</updated>
     </task>
     <task id="LOCAL-00022" summary="OL done DL done">
       <created>1618177195136</created>
@@ -595,7 +591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678245850807</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="A lot of players">
+      <created>1681839352875</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1681839352875</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TodoView">
@@ -608,7 +611,6 @@
     </todo-panel>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inital pass 2021" />
     <MESSAGE value="more people" />
     <MESSAGE value="2022 time lets go" />
     <MESSAGE value="Senior Bowl DL" />
@@ -633,69 +635,72 @@
     <MESSAGE value="More done before code change" />
     <MESSAGE value="Code changes can sort" />
     <MESSAGE value="QBs done" />
-    <option name="LAST_COMMIT_MESSAGE" value="QBs done" />
+    <MESSAGE value="A lot of players" />
+    <option name="LAST_COMMIT_MESSAGE" value="A lot of players" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676337841213">
+    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1682949676815">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-675" y="64" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675138829633" />
     <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675131472695" />
-    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1676337841213" />
-    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1673655992795" />
+    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1682614834418" />
+    <state x="790" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1682949676815" />
     <state x="413" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1678140672156">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="413" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1678140672156" />
-    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1678245849947">
+    <state x="706" y="0" key="CommitChangelistDialog2" timestamp="1681839351984">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-773" y="-134" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176526132" />
     <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675365318283" />
     <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1678245849947" />
     <state x="2358" y="-312" key="CommitChangelistDialog2/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676344191478" />
-    <state width="1323" height="203" key="GridCell.Tab.0.bottom" timestamp="1681241256736">
+    <state x="706" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1681839351984" />
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom" timestamp="1682601192115">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058175" />
-    <state width="1323" height="203" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1678314526072" />
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1682601192115" />
     <state width="1877" height="72" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676385304441" />
-    <state width="1323" height="203" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1681241256736" />
-    <state width="1323" height="203" key="GridCell.Tab.0.center" timestamp="1681241256736">
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1682189715407" />
+    <state width="1323" height="203" key="GridCell.Tab.0.center" timestamp="1682601192113">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
-    <state width="1323" height="203" key="GridCell.Tab.0.center/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1678314526072" />
+    <state width="1323" height="203" key="GridCell.Tab.0.center/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1682601192113" />
     <state width="1877" height="72" key="GridCell.Tab.0.center/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676385304441" />
-    <state width="1323" height="203" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1681241256736" />
-    <state width="1323" height="203" key="GridCell.Tab.0.left" timestamp="1681241256736">
+    <state width="1323" height="203" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1682189715407" />
+    <state width="1323" height="203" key="GridCell.Tab.0.left" timestamp="1682601192113">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
-    <state width="1323" height="203" key="GridCell.Tab.0.left/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1678314526071" />
+    <state width="1323" height="203" key="GridCell.Tab.0.left/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1682601192113" />
     <state width="1877" height="72" key="GridCell.Tab.0.left/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676385304440" />
-    <state width="1323" height="203" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1681241256736" />
-    <state width="1323" height="203" key="GridCell.Tab.0.right" timestamp="1681241256736">
+    <state width="1323" height="203" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1682189715407" />
+    <state width="1323" height="203" key="GridCell.Tab.0.right" timestamp="1682601192115">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1674753058174" />
-    <state width="1323" height="203" key="GridCell.Tab.0.right/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1678314526072" />
+    <state width="1323" height="203" key="GridCell.Tab.0.right/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1682601192115" />
     <state width="1877" height="72" key="GridCell.Tab.0.right/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676385304441" />
-    <state width="1323" height="203" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1681241256736" />
-    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1678245856918">
+    <state width="1323" height="203" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1682189715407" />
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1681839355388">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-956" y="-19" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675176528030" />
     <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675365322471" />
     <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1678245856918" />
     <state x="2139" y="-173" key="Vcs.Push.Dialog.v2/0.0.1366.720/1366.-312.1920.1032@1366.-312.1920.1032" timestamp="1676344197493" />
-    <state x="379" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1681174971452">
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1681839355388" />
+    <state x="379" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1682735908961">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="-1156" y="85" key="com.intellij.ide.util.TipDialog/0.0.1366.720/-1600.-134.1600.852@-1600.-134.1600.852" timestamp="1675298288734" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/-1600.-134.1600.852@0.0.1366.720" timestamp="1675004779144" />
     <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720/1366.-312.1920.1032@0.0.1366.720" timestamp="1677679584306" />
-    <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1681174971452" />
+    <state x="379" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1682735908961" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1675982652216">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
