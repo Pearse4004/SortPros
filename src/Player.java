@@ -9,7 +9,7 @@ public class Player {
     int rating;
     Map<String, String> profile;
 
-    public static final String[] PROFILE_ATTRIBUTES = new String[] { "info:", "pros:", "cons:", "take:" };
+    public static final String[] PROFILE_ATTRIBUTES = new String[] {"size:", "test:", "stat:", "info:", "pros:", "cons:", "take:" };
 
     Player( String player_data )
     {

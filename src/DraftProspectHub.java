@@ -9,11 +9,11 @@ public class DraftProspectHub
     {
         // Uncomment if using the command line to start
         // String year = args[0];
-        String year = "2023";
+        String year = "2024";
 
         // Uncomment if using the command line to start
         // String position = args[1];
-        String position = "te";
+        String position = "qb";
 
         PlayerDataBase player_data_base = new PlayerDataBase();
         player_data_base.add_file( "positions\\" + year + "\\" + position + year);
