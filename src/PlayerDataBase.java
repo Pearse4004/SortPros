@@ -55,7 +55,7 @@ public class PlayerDataBase
 
     public void print_rankings(String year)
     {
-        read_in_all_players(year);
+        //read_in_all_players(year);
         players_list.sort(new Comparator<Player>()
         {
             @Override
