@@ -22,14 +22,6 @@ info: 21 years old.
 pros: Comes downhill and hits well. Sees the game well. Burst is very good.
 cons: Can over run tackles and be over aggressive.
 take: NA
-S Tykee Smith Georgia 77
-size: 5'10 202, 31 5/8 arms, 9 1/4 hands.
-test: 40 - 4.46 | 3 cone - 7.01 | shuttle - 4.33 | vert - 36 | broad - 10 | bench - 16.
-stat: 53 tackles 4 INT 2 PBU, 73.3 RDEF 70.3 TACK 85.8 COV
-info: 23 years old.
-pros: Good burst and tackles well. Can cover in man well. Gets his hands on the ball well.
-cons: He's a slightly worse and older Bullard.
-take: NA
 S Kamren Kinchens Miami 77
 size: 5'11 203, 31 1/4 arms, 9 3/4 hands.
 test: 40 - 4.62 | 3 cone - NA | shuttle - NA | vert - 35 | broad - 9'2 | bench - 13.
@@ -38,13 +30,13 @@ info: 21 years old.
 pros: Elite 2022 season, 90 PFF grade. Great Ball production. Solid tackler. Plays aggressive.
 cons: Not a high level athlete.
 take: NA
-S James Williams Miami 76
-size: 6'4 230, 33 5/8 arms, 9 1/2 hands.
-test: 40 - 4.65 | 3 cone - NA | shuttle - NA | vert - 30 | broad - 9'9 | bench - NA.
-stat: 65 tackles 1 INT 3 PBU, 64.8 RDEF 67.1 TACK 85.6 COV
-info: NA
-pros: Could be a LB convert. 3 good years of coverage. Thumper of a safety.
-cons: Not a good athlete at safety. Not going to be great in the box to start.
+S Tykee Smith Georgia 76
+size: 5'10 202, 31 5/8 arms, 9 1/4 hands.
+test: 40 - 4.46 | 3 cone - 7.01 | shuttle - 4.33 | vert - 36 | broad - 10 | bench - 16.
+stat: 53 tackles 4 INT 2 PBU, 73.3 RDEF 70.3 TACK 85.8 COV
+info: 23 years old.
+pros: Good burst and tackles well. Can cover in man well. Gets his hands on the ball well.
+cons: He's a slightly worse and older Bullard.
 take: NA
 S Calen Bullock USC 76
 size: 6'2 188, 32 1/2 arms, 9 hands.
@@ -70,7 +62,7 @@ info: NA
 pros: Plays downhill and fills the run well. Good plays on the ball, gets his hands on a lot of passes. Improved every year of his career. Great 2023 PFF grades. Good SS size/
 cons: Not a top tier athlete. Not a rangy safety.
 take: NA
-S Ryan Watts Texas 76
+S Ryan Watts Texas 75
 size: 6'3 208, 34 1/2 arms, 9 3/8 hands.
 test: 40 - 4.53 | 3 cone - 6.82 | shuttle - 4.13 | vert - 40 1/2 | broad - 11'1 | bench - 10.
 stat: 30 tackles 0 INT 3 PBU, 79.6 RDEF 85.2 TACK 63 COV
@@ -78,9 +70,17 @@ info: NA
 pros: Great size and length. Great athlete. Good in run suport.
 cons: Not a quick corner, cant cover the shifty guys. Doesn't make many plays on the ball.
 take: NA
+S James Williams Miami 75
+size: 6'4 230, 33 5/8 arms, 9 1/2 hands.
+test: 40 - 4.65 | 3 cone - NA | shuttle - NA | vert - 30 | broad - 9'9 | bench - NA.
+stat: 65 tackles 1 INT 3 PBU, 64.8 RDEF 67.1 TACK 85.6 COV
+info: NA
+pros: Could be a LB convert. 3 good years of coverage. Thumper of a safety.
+cons: Not a good athlete at safety. Not going to be great in the box to start.
+take: NA
 S Dadrion Taylor-Demerson Texas Tech 75
 size: 6'0 197, 30 7/8 arms, 9 5/8 hands.
-test: 40 - 4.41 | 3 cone - NA | shuttle - NA | vert - 38 | broad - 10'3 | bench - NA.
+test: 40 - 4.41 | 3 cone - 7 | shuttle - 4.39 | vert - 38 | broad - 10'3 | bench - NA.
 stat: 62 tackles 4 INT 4 PBU, 76 RDEF 79 TACK 76.2 COV
 info: NA
 pros: Good athlete. Solid grading for the last 3 years. Good ball skills. Good instincts.
@@ -110,6 +110,14 @@ info: NA
 pros: Really good size and athlete. Very good PFF grades in his one season starting.
 cons: Only was a starter for one season.
 take: NA
+S Dominique Hampton Washington 74
+size: 6'2 215, 33 1/4 arms, 10 hands.
+test: 40 - 4.45 | 3 cone - 6.83 | shuttle - 4.14 | vert - 39 | broad - 10'2 | bench - 20.
+stat: 74 tackles 2 INT 7 PBU, 66 RDEF 73 TACK 67.4 COV
+info: NA
+pros: Great size. Great athleticism. Solid production.
+cons: Old player that never dominated. Film is just ok, not instinctive.
+take: NA
 S Jaylon Carlies Missouri 73
 size: 6'3 227, 34 1/4 arms, 10 hands.
 test: 40 - 4.5 | 3 cone - 7.03 | shuttle - 4.46 | vert - 34 1/2 | broad - 10'5 | bench - 22.
@@ -118,17 +126,17 @@ info: 22 years old.
 pros: Big strong safety. Solid athlete.
 cons: Not much of a fluid mover.
 take: NA
-S Dominique Hampton Washington 73
-size: 6'2 215, 33 1/4 arms, 10 hands.
-test: 40 - 4.45 | 3 cone - 6.83 | shuttle - 4.14 | vert - 39 | broad - 10'2 | bench - 20.
-stat: 74 tackles 2 INT 7 PBU, 66 RDEF 73 TACK 67.4 COV
+S Isaiah Stalbird South Dakota St 73
+size: 6'0 220, 31 3/4 arms, 9 1/4 hands.
+test: 40 - 4.5 | 3 cone - 7.23 | shuttle - 4.19 | vert - 37 1/2 | broad - 10'7 | bench - 18.
+stat: 56 tackles 1 INT 4 PBU, 92.2 RDEF 90.5 TACK 88.1 COV
 info: NA
-pros: Great size. Great athleticism. Solid production.
-cons: Old player that never dominated. Film is just ok, not instinctive.
+pros: Elite PFF grade. Great athlete for a LB, good for safety.
+cons: Low level of comp. Tweener.
 take: NA
-S Malik Mustapha Wake Forest 72
+S Malik Mustapha Wake Forest 73
 size: 5'10 209, 30 1/8 arms, 9 hands.
-test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
+test: 40 - 4.54 | 3 cone - NA | shuttle - NA | vert - 41 1/2 | broad - 10'6 | bench - 22.
 stat: 62 tackles 1 INT 3 PBU, 87.5 RDEF 69.8 TACK 72.1 COV
 info: NA
 pros: Good in run support. Team captain.
@@ -136,19 +144,11 @@ cons: No testing. Shorter Safety.
 take: NA
 S PJ Jules Southern Illinois 72
 size: 6'0 203, 32 arms, 9 1/4 hands.
-test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
+test: 40 - NA | 3 cone - NA | shuttle - 4.32 | vert - 34 1/2 | broad - NA | bench - 19.
 stat: 66 tackles 0 INT 11 PBU, 79.7 RDEF 80.7 TACK 89.3 COV
 info: NA
 pros: Great PFF grades in 2023.
 cons: Low level of comp.
-take: NA
-S Tyler Owens Texas Tech 71
-size: 6'2 216, 33 3/8 arms, 9 1/8 hands.
-test: 40 - NA | 3 cone - NA | shuttle - NA | vert - 41 | broad - 12'2 | bench - NA.
-stat: 38 tackles 0 INT 2 PBU, 56.9 RDEF 61.3 TACK 56.1 COV
-info: NA
-pros: Great size. Very good athlete.
-cons: No testing. One year of starting with ok grades. Not good at football.
 take: NA
 S Trey Taylor Air Force 72
 size: 6'1 206, 32 1/8 arms, 9 1/4 hands.
@@ -158,37 +158,21 @@ info: NA
 pros: Good cone drills and testing. Good PFF grading.
 cons: Played a lower level of comp.
 take: NA
-S Sione Vaki Utah 71
+S Sam Lockett Washington St 72
+size: 6'0 205, 32 1/4 arms, 9 1/2 hands.
+test: 40 - 4.6 | 3 cone - 7.09 | shuttle - 4.21 | vert - 38 | broad - 10'3 | bench - 10.
+stat: 52 tackles 2 INT 2 PBU, 77.7 RDEF 81.3 TACK 70.7 COV
+info: NA
+pros: Good run defender. Good size. Solid athlete.
+cons: Just ok in coverage.
+take: NA
+S Sione Vaki Utah 73
 size: 5'11 210, 29 1/8 arms, 8 5/8 hands.
 test: 40 - 4.62 | 3 cone - 7.16 | shuttle - 4.28 | vert - 39 1/2 | broad - 10'5 | bench - 20.
 stat: 38 tackles 1 INT 1 PBU, 57.3 RDEF 68 TACK 69.2 COV
 info: NA
 pros: Shorter safety prospect. Strong tackler, hits hard.
 cons: Speed is only ok. Coverage is only ok.
-take: NA
-S Jaylin Simpson Auburn 71
-size: 6'0 179, 32 3/8 arms, 9 7/8 hands.
-test: 40 - 4.45 | 3 cone - 7.03 | shuttle - 4.55 | vert - 40 | broad - 11'1 | bench - NA.
-stat: 28 tackles 4 INT 4 PBU, 48 RDEF 65.9 TACK 87.4 COV
-info: NA
-pros: Great ball production. Good speed. Great covering TE's and RBs.
-cons: Thin frame. Not a good run support safety.
-take: NA
-S Daijahn Anthony Ole Miss 70
-size: 6'0 195, 32 1/2 arms, 9 hands.
-test: 40 - 4.55 | 3 cone - NA | shuttle - NA | vert - 37 | broad - 9'8 | bench - NA.
-stat: 48 tackles 3 INT 6 PBU, 55.3 RDEF 64.3 TACK 68.9 COV
-info: 23 years old.
-pros: Solid production on the ball. Runs downhill hard to hit.
-cons: One year of Power 5 play. Not the most instinctive.
-take: NA
-S Lawrence Johnson Southeast Missouri St 69
-size: 6'0 201, 31 7/8 arms, 8 7/8 hands.
-test: 40 - 4.59 | 3 cone - 7.06 | shuttle - 4.18 | vert - 31 1/2 | broad - 9'9 | bench - 16.
-stat: 65 tackles 0 INT 3 PBU, 73.5 RDEF 73.5 TACK 73.9 COV
-info: NA
-pros: 5 year starter.
-cons: Played a low level of competition.
 take: NA
 S Josh Proctor Ohio St 71
 size: 6'1 209, 32 arms, 8 3/4 hands.
@@ -198,9 +182,57 @@ info: NA
 pros: Solid grades, size and athleticism. Comes downhill hard. Good Football IQ at this point
 cons: One year of full time staring. Doesn't have good hands. Not a rangy safety.
 take: NA
-S Millard Bradford TCU 69
+S Michael Dowell Miami OH 71
+size: 6'0 217, 32 3/8 arms, 9 5/8 hands.
+test: 40 - 4.54 | 3 cone - 6.98 | shuttle - 4.32 | vert - 34 1/2 | broad - 10'4 | bench - 24.
+stat: 47 tackles 2 INT 2 PBU, 84.9 RDEF 87.4 TACK 84.7 COV
+info: NA
+pros: Improved to a very productive senior year. Very good athlete. Good size.
+cons: One year of top level play. Lower level of comp. Not a very aggressive tackler.
+take: NA
+S Sanoussi Kane Purdue 71
+size: 6'0 207, 31 1/8 arms, 9 1/2 hands.
+test: 40 - 4.54 | 3 cone - 7.09 | shuttle - 4.32 | vert - 36 1/2 | broad - 10'8 | bench - 12.
+stat: 69 tackles 0 INT 7 PBU, 70.1 RDEF 65 TACK 56.9 COV
+info: NA
+pros: Solid size and testing. Plays at 100 mph. Hits hard.
+cons: Not much of a coverage player. Could be a tad dirty/penalized.
+take: NA
+S Thomas Harper Notre Dame 71
+size: 5'10 189, 29 3/8 arms, 8 7/8 hands.
+test: 40 - 4.5 | 3 cone - 7.11 | shuttle - 4.39 | vert - 42 | broad - 10'6 | bench - 18.
+stat: 36 tackles 0 INT 1 PBU, 83.7 RDEF 88.9 TACK 65.8 COV
+info: NA
+pros: Explosive athlete. Good in the run support.
+cons: Small safety. Not great in coverage.
+take: NA
+S Jaylin Simpson Auburn 70
+size: 6'0 179, 32 3/8 arms, 9 7/8 hands.
+test: 40 - 4.45 | 3 cone - 7.03 | shuttle - 4.55 | vert - 40 | broad - 11'1 | bench - NA.
+stat: 28 tackles 4 INT 4 PBU, 48 RDEF 65.9 TACK 87.4 COV
+info: NA
+pros: Great ball production. Good speed. Great covering TE's and RBs.
+cons: Thin frame. Not a good run support safety.
+take: NA
+S Tyler Owens Texas Tech 70
+size: 6'2 216, 33 3/8 arms, 9 1/8 hands.
+test: 40 - NA | 3 cone - NA | shuttle - NA | vert - 41 | broad - 12'2 | bench - NA.
+stat: 38 tackles 0 INT 2 PBU, 56.9 RDEF 61.3 TACK 56.1 COV
+info: NA
+pros: Great size. Very good athlete.
+cons: No testing. One year of starting with ok grades. Not good at football.
+take: NA
+S Jaylen McCollough Tennessee 70
+size: 6'0 202, 31 1/2 arms, 8 3/8 hands.
+test: 40 - 4.74 | 3 cone - 7.52 | shuttle - 4.58 | vert - 32 | broad - 9'7 | bench - 17.
+stat: 55 tackles 3 INT 2 PBU, 79.6 RDEF 81.5 TACK 85.9 COV
+info: NA
+pros: Very experienced SEC player. Played solid as a freshman. Good 2023 grades.
+cons: Couple season with nearly no ball production. Not a top tier athlete.
+take: NA
+S Millard Bradford TCU 70
 size: 5'10 191, 9 arms, 31 1/4 hands.
-test: 40 - 4.42 | 3 cone - NA | shuttle - NA | vert - 38 1/2 | broad - 10'4 | bench - 15.
+test: 40 - 4.42 | 3 cone - 7.08 | shuttle - 4.3 | vert - 38 1/2 | broad - 10'4 | bench - 15.
 stat: 50 tackles 2 INT 6 PBU, 69.9 RDEF 56.7 TACK 67.9 COV
 info: NA
 pros: Good athlete. Aggressive player in the backend.
@@ -216,43 +248,35 @@ cons: Not the best grades. Not much ball production.
 take: NA
 S Beau Brade Maryland 70
 size: 6'0 203, 31 arms, 10 1/8 hands.
-test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
+test: 40 - 4.68 | 3 cone - 6.89 | shuttle - 4.31 | vert - 32 1/2 | broad - 10 | bench - 15.
 stat: 62 tackles 1 INT 4 PBU, 70.6 RDEF 56.7 TACK 65.4 COV
 info: NA
 pros: Solid size. Good tackling production. Good in the box and making plays in the run game.
 cons: Oblique injury stopped him from testing. Not the best coverage range.
 take: NA
-S Sanoussi Kane Purdue 70
-size: 6'0 207, 31 1/8 arms, 9 1/2 hands.
-test: 40 - 4.54 | 3 cone - 7.09 | shuttle - 4.32 | vert - 36 1/2 | broad - 10'8 | bench - 12.
-stat: 69 tackles 0 INT 7 PBU, 70.1 RDEF 65 TACK 56.9 COV
-info: NA
-pros: Solid size and testing. Plays at 100 mph. Hits hard.
-cons: Not much of a coverage player. Could be a tad dirty/penalized.
-take: NA
-S Thomas Harper Notre Dame 70
-size: 5'10 189, 29 3/8 arms, 8 7/8 hands.
-test: 40 - 4.5 | 3 cone - 7.11 | shuttle - 4.39 | vert - 42 | broad - 10'6 | bench - 18.
-stat: 36 tackles 0 INT 1 PBU, 83.7 RDEF 88.9 TACK 65.8 COV
-info: NA
-pros: Explosive athlete. Good in the run support.
-cons: Small safety. Not great in coverage.
-take: NA
-S Demani Richardson Texas A&M 69
-size: 6'0 210, 32 arms, 9 7/8 hands.
-test: 40 - 4.6 | 3 cone - 7.18 | shuttle - 4.4 | vert - 31 1/2 | broad - 9'8 | bench - NA.
-stat: 43 tackles 0 INT 1 PBU, 75.9 RDEF 78.9 TACK 62.6 COV
+S Daijahn Anthony Ole Miss 69
+size: 6'0 195, 32 1/2 arms, 9 hands.
+test: 40 - 4.55 | 3 cone - 6.89 | shuttle - 4.19 | vert - 37 | broad - 10 | bench - NA.
+stat: 48 tackles 3 INT 6 PBU, 55.3 RDEF 64.3 TACK 68.9 COV
 info: 23 years old.
-pros: Very experienced in the SEC. Good run support tackler. Team captain.
-cons: Not a great athlete.
+pros: Solid production on the ball. Runs downhill hard to hit.
+cons: One year of Power 5 play. Not the most instinctive.
 take: NA
-S Andre Sam LSU 69
-size: 5'11 191, 30 arms, 9 1/4 hands.
-test: 40 - 4.53 | 3 cone - 7.03 | shuttle - 4.32 | vert - 36 | broad - 10'3 | bench - 14.
-stat: 60 tackles 3 INT 2 PBU, 65.6 RDEF 64.4 TACK 73.2 COV
+S Ben Nikkel Iowa St 69
+size: 6'0 199, 30 5/8 arms, 9 1/2 hands.
+test: 40 - 4.46 | 3 cone - 6.82 | shuttle - 4.1 | vert - 39 1/2 | broad - 1'4 | bench - 15.
+stat: 24 tackles 0 INT 3 PBU, 67.3 RDEF 64.3 TACK 73.8 COV
 info: NA
-pros: Solid athlete. Moves well on the field.
-cons: Only one year of Power 5 play. On the small side.
+pros: Co Captain. Walk on. ST player.
+cons: Wasn't full time starter.
+take: NA
+S John Huggins Jackson St 69
+size: 6'1 211, 32 1/8 arms, 9 1/8 hands.
+test: 40 - 4.47 | 3 cone - 6.91 | shuttle - 4/36 | vert - 38 1/2 | broad - 11'1 | bench - NA.
+stat: 25 tackles 2 INT 1 PBU, 56.6 RDEF 48.1 TACK 73.3 COV
+info: NA
+pros: Great athlete. Great size.
+cons: Lower level of comp. Not a full time starter.
 take: NA
 S Kendarin Ray Tulsa 69
 size: 6'3 215, 32 7/8 arms, 9 1/4 hands.
@@ -261,6 +285,94 @@ stat: 102 tackles 1 INT 1 PBU, 68.9 RDEF 71.6 TACK 55.3 COV
 info: NA
 pros: Tackling machine, over 100 tackles in 2023. Solid athlete with great size.
 cons: Never dominated at tulsa. Isn't the best in coverage.
+take: NA
+S Mark Perry TCU 69
+size: 6'0 211, 31 3/8 arms, 9 1/8 hands.
+test: 40 - 4.42 | 3 cone - 7.14 | shuttle - 4.4 | vert - 37 | broad - 10'11 | bench - 13.
+stat: 56 tackles 0 INT 3 PBU, 66.1 RDEF 64 TACK 63.9 COV
+info: NA
+pros: Has the size and athleticism.
+cons: Not much ball production. Ok tackler, not physical.
+take: NA
+S Shawn Preston Mississippi St 69
+size: 6'0 201, 31 arms, 9 hands.
+test: 40 - 4.67 | 3 cone - 7.13 | shuttle - 4.6 | vert - 36 | broad - 10'3 | bench - NA.
+stat: 44 tackles 3 INT 3 PBU, 76.4 RDEF 61.5 TACK 82.2 COV
+info: NA
+pros: Solid athlete and size. Good grading in 2023.
+cons: Took 5 years to play good ball.
+take: NA
+S Lawrence Johnson Southeast Missouri St 68
+size: 6'0 201, 31 7/8 arms, 8 7/8 hands.
+test: 40 - 4.59 | 3 cone - 7.06 | shuttle - 4.18 | vert - 31 1/2 | broad - 9'9 | bench - 16.
+stat: 65 tackles 0 INT 3 PBU, 73.5 RDEF 73.5 TACK 73.9 COV
+info: NA
+pros: 5 year starter.
+cons: Played a low level of competition.
+take: NA
+S Demani Richardson Texas A&M 68
+size: 6'0 210, 32 arms, 9 7/8 hands.
+test: 40 - 4.6 | 3 cone - 7.18 | shuttle - 4.4 | vert - 31 1/2 | broad - 9'8 | bench - NA.
+stat: 43 tackles 0 INT 1 PBU, 75.9 RDEF 78.9 TACK 62.6 COV
+info: 23 years old.
+pros: Very experienced in the SEC. Good run support tackler. Team captain.
+cons: Not a great athlete.
+take: NA
+S Andre Sam LSU 68
+size: 5'11 191, 30 arms, 9 1/4 hands.
+test: 40 - 4.53 | 3 cone - 7.03 | shuttle - 4.32 | vert - 36 | broad - 10'3 | bench - 14.
+stat: 60 tackles 3 INT 2 PBU, 65.6 RDEF 64.4 TACK 73.2 COV
+info: NA
+pros: Solid athlete. Moves well on the field.
+cons: Only one year of Power 5 play. On the small side.
+take: NA
+S Kenny Logan Kansas 68
+size: 5'11 209, 31 3/4 arms, 9 5/8 hands.
+test: 40 - 4.69 | 3 cone - 7.14 | shuttle - 4.53 | vert - 33 | broad - 9'8 | bench - 13.
+stat: 79 tackles 1 INT 6 PBU, 69.2 RDEF 75.3 TACK 84.1 COV
+info: NA
+pros: Productive, racks up tackles every year.
+cons: Not a good athlete at safety.
+take: NA
+S Gio Biggers North Carolina 68
+size: 6'1 199, 32 3/4 arms, 9 1/8 hands.
+test: 40 - 4.62 | 3 cone - 7.37 | shuttle - 4.34 | vert - 36 1/2 | broad - 10'3 | bench - 14.
+stat: 47 tackles 1 INT 3 PBU, 60.4 RDEF 75.1 TACK 64.7 COV
+info: NA
+pros: 3 year starter. Solid tackler. Good length.
+cons: Not a great athlete.
+take: NA
+S Jireh Wilson UCF 68
+size: 6'2 200, 33 1/4 arms, 9 7/8 hands.
+test: 40 - 4.53 | 3 cone - 7.1 | shuttle - 4.28 | vert - 31 1/2 | broad - 10'5 | bench - 14.
+stat: 35 tackles 0 INT 3 PBU, 62.9 RDEF 61.2 TACK 67.9 COV
+info: NA
+pros: Good length. Good athlete.
+cons: Not a full time starter.
+take: NA
+S Zion Puckett Auburn 68
+size: 5'11 213, 30 5/8 arms, 8 3/4 hands.
+test: 40 - 4.51 | 3 cone - 7.35 | shuttle - 4.4 | vert - 37 1/2 | broad - 10'4 | bench - 14.
+stat: 39 tackles 2 INT 2 PBU, 70.7 RDEF 77.6 TACK 63.1 COV
+info: NA
+pros: Solid thickness and good athlete.
+cons: Not a long safety.
+take: NA
+S Julius Wood East Carolina 68
+size: 6'1 193, 32 1/4 arms, 9 1/2 hands.
+test: 40 - 4.74 | 3 cone - 6.78 | shuttle - 4.43 | vert - 33 1/2 | broad - 10'2 | bench - 11.
+stat: 57 tackles 2 INT 1 PBU, 87.9 RDEF 88.7 TACK 64.1 COV
+info: NA
+pros: Good in run defense. Good tackler.
+cons: Not much of a pass coverage safety. On the lighter side.
+take: NA
+S Chelen Garnes Wake Forest 68
+size: 5'10 199, 30 arms, 8 1/2 hands.
+test: 40 - 4.57 | 3 cone - 7.03 | shuttle - 4.32 | vert - 37 | broad - 9'10 | bench - 18.
+stat: 43 tackles 0 INT 2 PBU, 69 RDEF 73.3 TACK 62.7 COV
+info: NA
+pros: Solid athlete. Plays fast.
+cons: Smaller safety. Doesn't make many plays on the ball.
 take: NA
 S Jason Simmons Syracuse 68
 size: 5'11 191, 30 1/4 arms, 8 7/8 hands.
@@ -285,14 +397,6 @@ stat: 51 tackles 3 INT 2 PBU, 71 RDEF 81.6 TACK 81.3 COV
 info: NA
 pros: Solid PFF grades.
 cons: Meh athlete, nothing special.
-take: NA
-S Mark Perry TCU 68
-size: 6'0 211, 31 3/8 arms, 9 1/8 hands.
-test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
-stat: 56 tackles 0 INT 3 PBU, 66.1 RDEF 64 TACK 63.9 COV
-info: NA
-pros: Has the size and athleticism.
-cons: Not much ball production. Ok tackler, not physical.
 take: NA
 S Patrick Mcmorris Cal 68
 size: 6'0 207, 31 7/8 arms, 9 3/4 hands.
@@ -334,6 +438,118 @@ info: NA
 pros: Great athlete.
 cons: Got hurt early and only has around 300 career snaps.
 take: NA
+S Marcus Banks Mississippi St 68
+size: 6'0 190, 29 arms, 9 hands.
+test: 40 - 4.45 | 3 cone - 6.9 | shuttle - 4.21 | vert - 36 1/2 | broad - 10'5 | bench - 17.
+stat: 37 tackles 0 INT 2 PBU, 53.7 RDEF 44.2 TACK 56.2 COV
+info: NA
+pros: Good athlete.
+cons: Bad Pff grades.
+take: NA
+S Jaylen Key Alabama 68
+size: 6'1 208, 32 1/4 arms, 9 5/8 hands.
+test: 40 - 4.6 | 3 cone - 7.2 | shuttle - 4.09 | vert - 36 1/2 | broad - 10'10 | bench - NA.
+stat: 49 tackles 1 INT 0 PBU, 65.8 RDEF 68.1 TACK 71.8 COV
+info: NA
+pros: Has the size. Solid athlete. Played for bama.
+cons: Not a fluid athlete on field. Low ball production.
+take: NA
+S Omar Brown Nebraska 68
+size: 6'1 205, 32 3/8 arms, 9 14/ hands.
+test: 40 - 4.56 | 3 cone - 6.97 | shuttle - 4.38 | vert - 35 | broad - 10 | bench - 11.
+stat: 49 tackles 1 INT 2 PBU, 74.3 RDEF 60.6 TACK 84.5 COV
+info: NA
+pros: Elite freshman year starter at Northern Iowa. Good PFF grades. Good athlete.
+cons: Missed his 2022 season. Not a physical tackler. Tic late reacting in man.
+take: NA
+S Sam Mathews Texas A&M 68
+size: 6'2 193, 31 1/2 arms, 9 5/8 hands.
+test: 40 - 4.49 | 3 cone - 6.9 | shuttle - 4.38 | vert - 34 | broad - 10'5 | bench - 13.
+stat: 16 tackles 1 INT 1 PBU, 92.6 RDEF 81.7 TACK 84 COV
+info: NA
+pros: Elite bowl game. Good athlete.
+cons: Not a starter.
+take: NA
+S Dell Pettus Troy 68
+size: 5'10 200, 29 5/8 arms, 8 1/4 hands.
+test: 40 - 4.51 | 3 cone - 7 | shuttle - 4.36 | vert - 33 1/2 | broad - 10 | bench - 18.
+stat: 67 tackles 0 INT 4 PBU, 67.6 RDEF 86.5 TACK 72.9 COV
+info: NA
+pros: Solid athlete. Good tackler.
+cons: Not the biggest safety.
+take: NA
+S Trevoe Yeboah-Kodie Rutgers 67
+size: 6'0 206, 30 7/8 arms, 9 5/8 hands.
+test: 40 - 4.43 | 3 cone - 6.97 | shuttle - 4.38 | vert - 34 1/2 | broad - 10 | bench - 17.
+stat: 0 tackles 0 INT 0 PBU, 0 RDEF 0 TACK 0 COV
+info: NA
+pros: Good athlete.
+cons: Didn't really play.
+take: NA
+S Jordan Toles Morgan St 67
+size: 6'1 216, 31 3/8 arms, 9 1/4 hands.
+test: 40 - 4.56 | 3 cone - 7.53 | shuttle - 4.5 | vert - 34 1/2 | broad - 10'1 | bench - 14.
+stat: 48 tackles 3 INT 1 PBU, 70.6 RDEF 65.8 TACK 76.2 COV
+info: NA
+pros: Played at LSU. Solid size and athlete.
+cons: Low level of comp. Not a dominate player at HBCU.
+take: NA
+S Tra Fluellen Middle Tennessee 67
+size: 6'1 212, 31 arms, 9 5/8 hands.
+test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
+stat: 45 tackles 3 INT 2 PBU, 58.2 RDEF 51.3 TACK 56.9 COV
+info: NA
+pros: Good size. Had a solid 2022.
+cons: Injured in 2023. No testing.
+take: NA
+S Camron Kelly Louisville 67
+size: 6'1 204, 31 arms, 9 5/8 hands.
+test: 40 - 4.86 | 3 cone - 7.05 | shuttle - 4.44 | vert - 33 | broad - 9'8 | bench - NA.
+stat: 50 tackles 2 INT 1 PBU, 60.3 RDEF 63.4 TACK 63.8 COV
+info: NA
+pros: Good experience.
+cons: Never had an impressive grading profile. Bad speed.
+take: NA
+S Jaylen Mahoney Vanderbilt 67
+size: 5'11 188, 31 7/8 arms, 8 5/8 hands.
+test: 40 - 4.54 | 3 cone - 7.03 | shuttle - 4.31 | vert - 33 | broad - 10 | bench - 19.
+stat: 44 tackles 0 INT 3 PBU, 78.8 RDEF 74.1 TACK 54.2 COV
+info: NA
+pros: Solid athlete. Solid run defender.
+cons: Not the biggest safety. Not productive in coverage.
+take: NA
+S Tywan Francis Temple 67
+size: 5'10 198, NA arms, NA hands.
+test: 40 - 4.69 | 3 cone - NA | shuttle - NA | vert - 30 1/2 | broad - 9'6 | bench - NA.
+stat: 68 tackles 2 INT 4 PBU, 73.4 RDEF 78.1 TACK 79.9 COV
+info: NA
+pros: Good tackler. Good 2023 season.
+cons: Not the best athlete. Smaller safety.
+take: NA
+S EJ Jackson Appalachian St 67
+size: 5'10 194, 30 7/8 arms, 8 7/8 hands.
+test: 40 - 4.54 | 3 cone - 6.9 | shuttle - 4.45 | vert - 33 | broad - 9'8 | bench - 12.
+stat: 39 tackles 0 INT 2 PBU, 78.4 RDEF 83 TACK 84.5 COV
+info: NA
+pros: Good athlete. Played well in snaps he played.
+cons: Didn't start to open the season. Small.
+take: NA
+S Nasir Peoples Virginia Tech 67
+size: 6'0 200, 30 1/8 arms, 9 hands.
+test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
+stat: 18 tackles 0 INT 1 PBU, 63.3 RDEF 60.2 TACK 67.7 COV
+info: NA
+pros: VT.
+cons: Got hurt.
+take: NA
+S Marcis Floyd West Virginia 67
+size: 5'11 196, 31 arms, 9 hands.
+test: 40 - 4.52 | 3 cone - 7.04 | shuttle - 4.17 | vert - 37 1/2 | broad - 10'6 | bench - 12.
+stat: 44 tackles 1 INT 5 PBU, 72.7 RDEF 73.5 TACK 59.3 COV
+info: NA
+pros: Very good athlete.
+cons: Not a full time player. Bad in coverage.
+take: NA
 S Clayton Isbell Coastal Carolina 67
 size: 6'2 220, 33 1/2 arms, 10 1/8 hands.
 test: 40 - 4.82 | 3 cone - 7.05 | shuttle - 4.31 | vert - 32 | broad - 9'11 | bench - 8.
@@ -366,6 +582,102 @@ info: NA
 pros: Breakout year in 2023. Got his hands on a lot of passes.
 cons: 5 years of not starting. Not great at coming downhill to play the run.
 take: NA
+S Bryce Sheppert Kent St 67
+size: 5'9 4.53, 28 7/8 arms, 8 3/8 hands.
+test: 40 - 4.53 | 3 cone - 6.96 | shuttle - 4.2 | vert - 40 1/2 | broad - 10'2 | bench - 13.
+stat: 65 tackles 1 INT 4 PBU, 78.7 RDEF 74.9 TACK 56.7 COV
+info: NA
+pros: Good in run support. Good athlete.
+cons: Small. Bad in coverage.
+take: NA
+S Jabari Moore Army 67
+size: 5'10 186, 30 1/4 arms, 8 3/4 hands.
+test: 40 - 4.76 | 3 cone - 7.02 | shuttle - 4.31 | vert - 35 | broad - 9'9 | bench - 11.
+stat: 39 tackles 0 INT 6 PBU, 78.9 RDEF 78.7 TACK 73.7 COV
+info: NA
+pros: Elite run defense grades.
+cons: Small safety. Played corner. Average athlete.
+take: NA
+S Quindrelin Hammonds Army 67
+size: 5'10 193, 30 1/8 arms, 10 hands.
+test: 40 - 4.49 | 3 cone - 7.19 | shuttle - 4.45 | vert - 36 1/2 | broad - 9'11 | bench - 14.
+stat: 48 tackles 3 INT 3 PBU, 68.9 RDEF 84.7 TACK 65.4 COV
+info: NA
+pros: Good tackler and run defender. Solid athlete, good speed.
+cons: Smaller safety. Just ok in coverage.
+take: NA
+S Nate Bauer Toledo 67
+size: 5'11 198, 29 5/8 arms, 9 hands.
+test: 40 - 4.6 | 3 cone - 6.84 | shuttle - 4.21 | vert - 34 | broad - 8'7 | bench - 20.
+stat: 60 tackles 1 INT 2 PBU, 64.5 RDEF 59 TACK 75.6 COV
+info: NA
+pros: Solid athlete.
+cons: Smaller safety, no length.
+take: NA
+S Brandon Bishop Liberty 67
+size: 6'0 194, 30 1/4 arms, 9 3/4 hands.
+test: 40 - 4.63 | 3 cone - 6.94 | shuttle - 4.18 | vert - 36 | broad - 9'11 | bench - 16.
+stat: 43 tackles 3 INT 1 PBU, 61 RDEF 88 TACK 65.2 COV
+info: NA
+pros: Good tackler.
+cons: One year starter at liberty.
+take: NA
+S Phalen Sanford Nebraska 67
+size: 5'11 197, 29 3/4 arms, 9 1/2 hands.
+test: 40 - 4.59 | 3 cone - 6.71 | shuttle - 4.25 | vert - 39 | broad - 10'7 | bench - 12.
+stat: 30 tackles 0 INT 1 PBU, 70.9 RDEF 83.8 TACK 70.1 COV
+info: NA
+pros: Good athlete. Solid grades.
+cons: Wasn't a full time starter.
+take: NA
+S Brent Jackson Rhode Island 67
+size: 6'1 205, NA arms, NA hands.
+test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
+stat: 54 tackles 1 INT 4 PBU, 65.9 RDEF 52.8 TACK 82 COV
+info: NA
+pros: Solid grades. Solid size.
+cons: Low level of comp.
+take: NA
+S DJ Brown Notre Dame 67
+size: 6'1 200, 31 1/2 arms, 9 1/8 hands.
+test: 40 - 7.73 | 3 cone - 7.04 | shuttle - 4.47 | vert - 33 | broad - 9'1 | bench - 19.
+stat: 34 tackles 1 INT 2 PBU, 59.5 RDEF 73.7 TACK 80.1 COV
+info: NA
+pros: Solid size. Solid in pass defense.
+cons: Not a good athlete. Bad against the run.
+take: NA
+S Javan Morgan Florida A&M 67
+size: 5'10 185, NA arms, NA hands.
+test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - NA.
+stat: 34 tackles 3 INT 2 PBU, 65.2 RDEF 63.5 TACK 80.4 COV
+info: NA
+pros: Good production.
+cons: No testing. Small.
+take: NA
+S Keondre Swoopes UAB 67
+size: 5'10 188, 30 1/4 arms, 9 1/2 hands.
+test: 40 - 4.56 | 3 cone - 7.15 | shuttle - 4.38 | vert - 36 1/2 | broad - 10'6 | bench - 14.
+stat: 67 tackles 2 INT 1 PBU, 65.1 RDEF 60.9 TACK 59.2 COV
+info: NA
+pros: 3 year starter that has good ball production. Good athlete.
+cons: Step back in PFF grades in 2023. Small Safety.
+take: NA
+S John Pupel Boston College 66
+size: 6'1 205, 29 5/8 arms, 9 1/2 hands.
+test: 40 - 4.73 | 3 cone - 7.12 | shuttle - 4.21 | vert - 36 | broad - 10 | bench - 15.
+stat: 69 tackles 0 INT 1 PBU, 62.9 RDEF 70.7 TACK 59.6 COV
+info: NA
+pros: Solid size and athlete.
+cons: Graded alright. Ran a meh 40. short arms.
+take: NA
+S Tygee Leach Georgia St 66
+size: 5'10 198, 32 arms, 9 hands.
+test: 40 - 4.85 | 3 cone - 7.38 | shuttle - 4.27 | vert - 34 1/2 | broad - 10'3 | bench - 19.
+stat: 62 tackles 1 INT 4 PBU, 76.5 RDEF 75.6 TACK 70.9 COV
+info: NA
+pros: Really good at lehigh.
+cons: Not a good athlete and small.
+take: NA
 S Clayton Bush Illinois 65
 size: 6'0 212, 29 1/4 arms, 9 3/8 hands.
 test: 40 - NA | 3 cone - NA | shuttle - NA | vert - NA | broad - NA | bench - 21.
@@ -390,6 +702,14 @@ info: NA
 pros: A good amount of FBS experience.
 cons: Not big athletic or productive.
 take: NA
+S Cedarious Barfield San Diego St 65
+size: 5'9 192, 31 1/4 arms, 9 hands.
+test: 40 - 4.62 | 3 cone -7.14 | shuttle - 4.31 | vert - 33 1/2 | broad - 9'9 | bench - 11.
+stat: 44 tackles 4 INT 2 PBU, 44.9 RDEF 46.6 TACK 56.6 COV
+info: NA
+pros: Good ball production.
+cons: Bad grades. Small.
+take: NA
 S Kanion Williams Tulsa 65
 size: 6'1 200, 30 7/8 arms, 8 1/2 hands.
 test: 40 - 4.51 | 3 cone - 7.13 | shuttle - 4.47 | vert - 32 | broad - 10'3 | bench - 16.
@@ -397,4 +717,12 @@ stat: 26 tackles 1 INT 1 PBU, 55 RDEF 30.7 TACK 42.6 COV
 info: NA
 pros: Solid athlete.
 cons: Old player who graded terrible.
+take: NA
+S Steven Comstock Fresno St 65
+size: 6'1 199, 30 1/8 arms, 9 hands.
+test: 40 - 4.64 | 3 cone - NA | shuttle - 4.35 | vert - 33 1/2 | broad - 10'2 | bench - 12.
+stat: 0 tackles 0 INT 0 PBU, 65.4 RDEF 46.5 TACK 63.7 COV
+info: NA
+pros: Started. Solid size.
+cons: Nothing special.
 take: NA

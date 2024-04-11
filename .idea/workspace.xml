@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Top offense done">
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Top players done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sortpros/PlayerDataBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2024/c2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/c2024" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2024/cb2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/cb2024" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2024/dl2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/dl2024" afterDir="false" />
@@ -22,16 +21,12 @@
       <change beforePath="$PROJECT_DIR$/positions/2024/wr2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/wr2024" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureCB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureCB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureDL" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureDL" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureEDGE" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureEDGE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureLB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureLB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureOL" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureOL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureQB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureQB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureRB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureRB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureS" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureTE" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureTE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureWR" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureWR" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DraftProspectHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DraftProspectHub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayerDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerDataBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -579,7 +574,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706192218034</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TodoView">
@@ -592,7 +587,6 @@
     </todo-panel>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Edit to ratings" />
     <MESSAGE value="Combine Offense done" />
     <MESSAGE value="Mock draft comin" />
     <MESSAGE value="TEs done" />
@@ -617,7 +611,8 @@
     <MESSAGE value="Rbs 1 done" />
     <MESSAGE value="WRs redoing" />
     <MESSAGE value="Top offense done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Top offense done" />
+    <MESSAGE value="Top players done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Top players done" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
