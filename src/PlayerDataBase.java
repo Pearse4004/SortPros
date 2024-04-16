@@ -173,6 +173,7 @@ public class PlayerDataBase
             try
             {
                 String player_file_name = directory_path_string + position + year;
+                System.out.println(player_file_name);
                 File player_file = new File( player_file_name );
                 if ( player_file.exists() && player_file.isFile() )
                 {

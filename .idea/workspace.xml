@@ -5,28 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Top players done">
+      <change afterPath="$PROJECT_DIR$/positions/MockDrafts/2024_1.0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/c2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/c2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/cb2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/cb2024" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2024/dl2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/dl2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/edge2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/edge2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/lb2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/lb2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/og2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/og2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/ot2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/ot2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/players2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/players2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/qb2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/qb2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/rb2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/rb2024" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2024/s2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/s2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/te2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/te2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/wr2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/wr2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureCB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureCB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureDL" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureDL" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureLB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureLB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureQB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureQB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureRB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureRB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureS" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureTE" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureTE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureWR" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureWR" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DraftProspectHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DraftProspectHub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayerDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerDataBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
