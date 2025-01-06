@@ -10,7 +10,7 @@ public class PlayerDataBase
 {
     public List< Player > players_list;
 
-    public static String[] positions_list = {"c","cb","dl","edge","lb","og","ot","qb","rb","s","te","wr"};
+    public static String[] positions_list = {"c","cb","dl","edge","lb","og","ot","qb","qbb","rb","s","te","wr"};
 
     public PlayerDataBase()
     {
