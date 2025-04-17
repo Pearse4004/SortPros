@@ -4,22 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="7 twp corrupts the file">
-      <change afterPath="$PROJECT_DIR$/positions/2025/te2025" afterDir="false" />
+    <list default="true" id="9e05f8e9-6b85-4069-a616-2a8fb6392908" name="Default" comment="Update">
+      <change afterPath="$PROJECT_DIR$/positions/2025/c2025" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positions/2025/og2025" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/2024/rb2024" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2024/rb2024" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2025/cb2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/cb2025" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2025/dl2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/dl2025" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2025/edge2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/edge2025" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2025/lb2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/lb2025" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2025/ot2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/ot2025" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2025/players2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/players2025" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2025/qb2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/qb2025" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2025/rb2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/rb2025" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2025/s2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/s2025" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/2025/te2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/te2025" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/2025/wr2025" beforeDir="false" afterPath="$PROJECT_DIR$/positions/2025/wr2025" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FuturePlayers" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FuturePlayers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureQB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureQB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/Future/FutureRB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureRB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/Future/FutureCB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureCB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/Future/FutureDL" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureDL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/Future/FutureEDGE" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureEDGE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/Future/FutureLB" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureLB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/Future/FutureOL" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureOL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/Future/FutureS" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureTE" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureTE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/Future/FutureWR" beforeDir="false" afterPath="$PROJECT_DIR$/positions/Future/FutureWR" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/RatingsKey" beforeDir="false" afterPath="$PROJECT_DIR$/positions/RatingsKey" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DraftProspectHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DraftProspectHub.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -568,7 +575,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706192218034</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TodoView">
@@ -581,7 +588,6 @@
     </todo-panel>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TEs done" />
     <MESSAGE value="ONLY DB to go" />
     <MESSAGE value="2023 initial offense done" />
     <MESSAGE value="Getting through the edges" />
@@ -606,7 +612,8 @@
     <MESSAGE value="Top players done" />
     <MESSAGE value="2025 Start" />
     <MESSAGE value="7 twp corrupts the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 twp corrupts the file" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
